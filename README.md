@@ -9,7 +9,7 @@
 
 ## 🔗 Live Demo & Links
 * **Plataforma Pública:** [www.localizar.website](https://www.localizar.website)
-* **Panel de Gestión (Dashboard):** [selecto.localizar.website](https://selecto.localizar.website) *(Acceso restringido)*
+* **E-Commerce Selecto:** [selecto.localizar.website](https://selecto.localizar.website)
 
 ---
 
@@ -48,16 +48,28 @@ El dashboard maneja grandes volúmenes de datos de productos y métricas.
 
 ## 📸 Galería del Proyecto
 
-### Vista del Dashboard (Admin)
-*Interfaz de gestión para los comercios, manejo de productos y métricas.*<img width="1912" height="1074" alt="image" src="https://github.com/user-attachments/assets/a81402e0-4b37-4707-912e-256078255b11" />
+### 1. Dashboard Administrativo (LocalizAR)
+*Panel de gestión interna del ecosistema SaaS. Permite la administración de métricas, usuarios y productos. (Datos ilustrativos)*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a81402e0-4b37-4707-912e-256078255b11" alt="Dashboard Localizar" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+</div>
 
-*(Imagen y datos ilustrativos)*
+<br>
 
-### Vista de Localizar Web
-*Vista pública.*<br/><img width="388" height="831" alt="image" src="https://github.com/user-attachments/assets/b74bf828-c380-4bce-a6a9-da3624e64c29" />
+### 2. Vista Pública Mobile (LocalizAR.website)
+*Experiencia de usuario final enfocada en Mobile First. Catálogo y mapas.*
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b74bf828-c380-4bce-a6a9-da3624e64c29" alt="Mobile Public View" height="600" style="border-radius: 15px; border: 2px solid #333;">
+  <p><a href="https://localizar.website">🔗 Visitar Localizar.website</a></p>
+</div>
 
+<br>
 
-*([LocalizAR Website](https://localizar.website))*
+### 3. Caso de Éxito: E-Commerce "Selecto"
+*Desarrollo a medida para un cliente independiente. Tienda online completa con gestión de stock y pedidos.*<div align="center">
+  <img src="https://github.com/user-attachments/assets/a9047b73-f45f-4cfe-959f-1d643904bec2" alt="Cliente Selecto" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <p><a href="https://selecto.localizar.website">🔗 Visitar Demo Cliente</a></p>
+</div>
 
 ---
 
