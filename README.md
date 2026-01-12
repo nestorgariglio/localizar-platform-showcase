@@ -7,10 +7,6 @@
 
 > **Nota:** Este repositorio sirve como documentación técnica y portafolio del proyecto **Localizar**. Debido a la naturaleza comercial del producto (SaaS), el código fuente es privado.
 
-## 🔗 Live Demo & Links
-* **Plataforma Pública:** [www.localizar.website](https://www.localizar.website)
-* **E-Commerce Selecto:** [selecto.localizar.website](https://selecto.localizar.website)
-
 ---
 
 ## 💡 Sobre el Proyecto
@@ -41,34 +37,29 @@ Para evitar componentes "espagueti", implementé patrones de diseño que separan
 * *Solución:* Uso de **Custom Hooks** que actúan como "Controllers", dejando a los componentes de React puramente presentacionales.
 
 ### 2. Optimización de Performance
-El dashboard maneja grandes volúmenes de datos de productos y métricas.
-* *Solución:* Implementación de paginación desde el servidor y `memoización` de componentes clave para evitar re-renders innecesarios.
+El dashboard maneja grandes volúmenes de datos de todo el ecosistema.
+* *Solución:* Implementación de paginación desde el servidor y `memoización` de componentes clave para evitar re-renders innecesarios al manipular grandes tablas de datos.
 
 ---
 
 ## 📸 Galería del Proyecto
 
-### 1. Dashboard Administrativo (LocalizAR)
-*Panel de gestión interna del ecosistema SaaS. Permite la administración de métricas, usuarios y productos. (Datos ilustrativos)*
+### 1. Backoffice Administrativo (Internal Tool)
+*Panel de control centralizado para la administración total del ecosistema, métricas globales y gestión de usuarios.*
+<br>
+**⚠️ Nota:** *Los datos numéricos y KPIs mostrados en esta captura son ficticios generados únicamente para fines de demostración y no reflejan métricas reales del negocio.*
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a81402e0-4b37-4707-912e-256078255b11" alt="Dashboard Localizar" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
 <br>
 
-### 2. Vista Pública Mobile (LocalizAR.website)
-*Experiencia de usuario final enfocada en Mobile First. Catálogo y mapas.*
+### 2. Vista Pública Mobile
+*Experiencia de usuario final enfocada en Mobile Only*
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b74bf828-c380-4bce-a6a9-da3624e64c29" alt="Mobile Public View" height="600" style="border-radius: 15px; border: 2px solid #333;">
   <p><a href="https://localizar.website">🔗 Visitar Localizar.website</a></p>
-</div>
-
-<br>
-
-### 3. Caso de Éxito: E-Commerce "Selecto"
-*Desarrollo a medida para un cliente independiente. Tienda online completa con gestión de stock y pedidos.*<div align="center">
-  <img src="https://github.com/user-attachments/assets/a9047b73-f45f-4cfe-959f-1d643904bec2" alt="Cliente Selecto" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-  <p><a href="https://selecto.localizar.website">🔗 Visitar Demo Cliente</a></p>
 </div>
 
 ---
