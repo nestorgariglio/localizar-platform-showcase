@@ -41,7 +41,7 @@ El dashboard maneja grandes volúmenes de datos de todo el ecosistema.
 * *Solución:* Implementación de paginación desde el servidor y `memoización` de componentes clave para evitar re-renders innecesarios al manipular grandes tablas de datos.
 
 ### 3. Desarrollo Acelerado con IA 
-Para optimizar los tiempos de entrega en este equipo reducido, Integramos herramientas de IA en el flujo de trabajo.
+Para optimizar los tiempos de entrega en este equipo reducido, integramos herramientas de IA en el flujo de trabajo.
 * *Solución:*
   * Creación de recursos gráficos y placeholders mediante IA.
   * Redacción asistida para textos de marketing dentro de la app.
