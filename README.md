@@ -50,15 +50,24 @@ El dashboard maneja grandes volúmenes de datos de todo el ecosistema.
 **⚠️ Nota:** *Los datos numéricos y KPIs mostrados en esta captura son ficticios generados únicamente para fines de demostración y no reflejan métricas reales del negocio.*
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a81402e0-4b37-4707-912e-256078255b11" alt="Dashboard Localizar" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img src="https://github.com/user-attachments/assets/04dddee7-e3fc-41bd-b4ef-62c77b467c6e" alt="Dashboard Localizar" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
 <br>
 
 ### 2. Vista Pública Mobile
 *Experiencia de usuario final enfocada en Mobile Only*
+<br>
+<p align="center">Aplicación Mobile en desarrollo</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b74bf828-c380-4bce-a6a9-da3624e64c29" alt="Mobile Public View" height="600" style="border-radius: 15px; border: 2px solid #333;">
+</div>
+
+---
+
+<p align="center">Aplicación Web (Mobile Only)</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e68aed4e-aacd-4df6-9a42-62f61bc68ccc" alt="Mobile Public View" height="600" style="border-radius: 15px; border: 2px solid #333;">
   <p><a href="https://localizar.website">🔗 Visitar Localizar.website</a></p>
 </div>
 
